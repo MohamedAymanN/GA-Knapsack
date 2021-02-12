@@ -1,0 +1,11 @@
+﻿Population Size,Number of Iterations,Maximum Weight
+8,500000,33
+Name,Weight(Kg),Value(Egp)
+Tire,7,800
+BrakeRotor,10,200
+AirBag,1,630
+ArmRest,1,126
+Battery,22,576
+CrankShaft,31,900
+Clock,1,216
+Clutch,5,198
